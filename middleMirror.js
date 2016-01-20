@@ -1,3 +1,11 @@
+	///////////////////////////////
+	//
+	// NON-PERMANENT SCRIPT
+	// WORKING BUT CAN BE OPTIMIZED
+	// v1.1
+	//
+	///////////////////////////////	
+	
 		var parent, subParent, subParentBottom, left, leftBottom, right, rightBottom, elemNum, elemNumBottom, bgColor, cloned;
 		var reader;
 		var totalWidth = 0;
