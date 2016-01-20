@@ -10,9 +10,9 @@ This file is just an example.
 You can use this script through SQL calls and display the slider through an AJAX success (via JSON or other)
 
 #testMiddleMirror.css
-This file is also an example.
+This file is also an example
 
-Feel free to do what you want with.
+Feel free to do what you want with it
 
 #Setup
 1. Download the .zip
@@ -21,4 +21,4 @@ Feel free to do what you want with.
 4. Let it work
 
 # Under progress
-Will soon provide a full-working solution for back-end stored images.
+Will soon provide a fully working solution for back-end stored images
