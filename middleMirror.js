@@ -25,10 +25,7 @@
 		
 		reader = document.getElementsByClassName('mirror')[0];
 		
-		 
-			
-			subParent.style.width = '2100px';
-	//		subParentBottom.style.width = '2100px';
+		subParent.style.width = '2100px';
 	
 	
 	///////////////////////////////
