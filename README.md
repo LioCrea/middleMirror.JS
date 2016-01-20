@@ -17,5 +17,5 @@ Feel free to do what you want with.
 3. Add the correct script tag
 4. Let it work
 
-# under progress
+# Under progress
 Will soon provide a full-working solution for back-end stored images.
