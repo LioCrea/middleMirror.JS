@@ -6,10 +6,12 @@ No canvas, pur JS script: create the perfect image of whatever is in the middle 
 #
 # testMiddleMirror.html
 This file is just an example.
+
 You can use this script through SQL calls and display the slider through an AJAX success (via JSON or other)
 
 #testMiddleMirror.css
 This file is also an example.
+
 Feel free to do what you want with.
 
 #Setup
