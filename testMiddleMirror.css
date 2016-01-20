@@ -1,0 +1,93 @@
+
+.wrapperTop, .wrapperBottom{
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.parent{
+	vertical-align: middle;
+	display: inline-block;
+	max-width: 960px;
+	height: 110px;
+	margin-left: 40px;
+	margin-right: 40px;
+	overflow: hidden;
+}
+
+.subParent, .subParentBottom{
+	transition: .5s;
+	text-align: left;
+}
+
+.elem, .elemBottom{
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	cursor: pointer;
+}
+
+.elem:first-child{
+	margin-left: 0px;
+}
+
+.subParentBottom{
+	width: 2000px;
+}
+
+.elemBottom{
+	border-radius: 110px;
+}
+
+#a{
+	background: red;
+}
+#b{
+	background: blue;
+}
+#c{
+	background: yellow;
+}
+#d{
+	background: black;
+}
+#e{
+	background: green;
+}
+#f{
+	background: brown;
+}
+#g{
+	background: orange;
+}
+#h{
+	background: rgb(100,100,100);
+}
+
+button{
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.clone, .cloneBottom{
+	width: 100px;
+	height: 100px;
+	margin: 60px auto;
+	transition: .5s;
+}	
+
+.cloneBottom{
+	border-radius: 100px;
+}
+
+.mirror{
+	position: absolute;
+	z-index: 2;
+	width: 1px;
+	height: 100vh;
+	top: 0;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+	background: red;
+}
