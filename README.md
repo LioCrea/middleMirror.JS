@@ -21,4 +21,4 @@ Feel free to do what you want with it
 4. Let it work
 
 # Under progress
-Will soon provide a fully working solution for back-end stored images
+Will soon provide a fully working solution for back-end stored images that could be easily implemented to e-shop websites
