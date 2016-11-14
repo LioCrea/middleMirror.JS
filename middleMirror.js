@@ -55,9 +55,6 @@
 					}
 				}
 			}
-			console.log('Distance table INIT TOP: '+distance);
-			console.log('bgColor: '+bgColor);
-			console.log('id de l\'element: '+elemNumBottom[bgColor].id);
 			clonedBottom.style.background = elemNumBottom[bgColor].style.background;
 		
 	///////////////////////////////
@@ -79,10 +76,6 @@
 								}
 							}
 						}
-					console.log('Distance table NEW RIGHT: '+distance);
-					console.log('Plus proche: '+plusProche);
-					console.log('DIV#: '+bgColor);
-					console.log('id de l\'element: '+elemNum[bgColor].id);
 					cloned.style.background = elemNum[bgColor].style.background;
 					},400);
 				}
@@ -100,10 +93,6 @@
 								}
 							}
 						}
-					console.log('Distance table NEW RIGHT: '+distance);
-					console.log('Plus proche: '+plusProche);
-					console.log('DIV#: '+bgColor);
-					console.log('id de l\'element: '+elemNum[bgColor].id);
 					cloned.style.background = elemNum[bgColor].style.background;
 					},400);
 				}
@@ -121,10 +110,6 @@
 								}
 							}
 						}
-					console.log('Distance table NEW RIGHT: '+distance);
-					console.log('Plus proche: '+plusProche);
-					console.log('DIV#: '+bgColor);
-					console.log('id de l\'element: '+elemNumBottom[bgColor].id);
 					clonedBottom.style.background = elemNumBottom[bgColor].style.background;
 					},400);
 				}
@@ -142,10 +127,6 @@
 								}
 							}
 						}
-					console.log('Distance table NEW RIGHT: '+distance);
-					console.log('Plus proche: '+plusProche);
-					console.log('DIV#: '+bgColor);
-					console.log('id de l\'element: '+elemNumBottom[bgColor].id);
 					clonedBottom.style.background = elemNumBottom[bgColor].style.background;
 					},400);
 				}
